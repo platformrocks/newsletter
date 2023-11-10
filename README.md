@@ -6,5 +6,5 @@ Confira a lista:
 
 ---
 
-*Para acompanhar mais e faça parte da comunidade:*
+*Para acompanhar mais faça parte da comunidade:*
 https://bit.ly/platform-engineering-br
