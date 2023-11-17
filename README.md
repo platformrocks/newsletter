@@ -2,7 +2,8 @@
 Lista de referências compartilhadas na comunidade.
 
 Confira a lista:
-- [23-01-NOV](/weekly/23-01-NOV.md)
+- [#001 - 10/NOV/23](/weekly/001.md)
+- [#002 - 17/NOV/23](/weekly/002.md)
 
 ---
 
