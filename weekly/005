@@ -1,0 +1,59 @@
+# Platform Engineering Newsletter #005
+
+❇️ Falaaaa, pessoal!!! Segue o resumão da dessa semana:
+
+Saiu o The State of Open Source do GitHub, algumas informações interessantes:
+
+1. A comunidade brasileira vem crescendo e está no top 10 mundial. Existe uma projeção que o Brasil fique em 3º lugar e passe a china.
+2. Na América do Sul o Brasil é o país com mais pessoas desenvolvedoras (>4M), inclusive mais que os países da Europa.
+3. JavaScript é a linguagem mais popular, e ano que vem pode completar 10 anos em primeiro lugar.
+4. Typescript cresceu muito, chegando em 3º lugar.
+5. JavaScript, Python e Typescript são as linguagens mais usadas.
+6. PHP vem perdendo muito espaço e a Comunidade está diminuindo.
+
+Confira mais:
+
+# DevRel, DevEx & Community
+- [Livro - The Business Value of Developer Relations](https://amzn.to/3Rcsczl): Como e por que as comunidades técnicas são fundamentais para o seu sucesso.
+- [The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/): Confira dados do github, quais são as linguagens mais usadas, quais são os países mais ativos e outras informações.
+
+# Platform as a Service
+- [Estratégia de Plataforma](https://martinfowler.com/articles/talk-about-platforms.html): Por que uma plataforma eficaz pode ajudá-lo a dimensionar a entrega, o que ela deve conter e como começar a construir uma.
+
+## Cloud, Infra & FinOps
+- [Crossplane + ArgoCD + AWS](https://medium.com/@rodrigoinfrasec/implementa%C3%A7%C3%A3o-de-crossplane-e-argocd-para-entrega-cont%C3%ADnua-de-infraestrutura-na-aws-30466f5e1b47): Implementação de Crossplane e ArgoCD para entrega contínua de infraestrutura na AWS.
+- [Vídeo - LINUXtips](https://www.youtube.com/watch?v=UA_g7dEwS04): O QUE VOCÊ AINDA NÃO SABE SOBRE O MAGALU CLOUD! spoiler!
+- [On Premise vs Cloud](https://forbytes.com/blog/on-premise-vs-cloud-comparison/): onde investir para obter o melhor retorno?
+
+## Product & Management
+- [Carga Cognitiva](https://mattwynne.net/cognitive-load-for-knowledge-work): Entenda como aplicar a teoria de Carga Cognitiva para Trabalho do Conhecimento.
+- [7 Tipos de ROADMAPs](https://www.antmurphy.me/newsletter/22/3/28/7-different-product-roadmaps): Aprenda formas de organizar duas atividades dentro desses tipos de ROADMAPs
+
+## DevOps
+- [Meetup - DevLake e DORA Metrics](https://merico-dev.zoom.us/webinar/register/WN_VsHFpQqPTe-zXrQFsKGw-w#/registration): **14 dezembro às 15h**: Conversa com Nathen Harvey (chefe da equipe DORA do Google Cloud) sobre o Relatório DORA 2023, todas as suas implicações e o que podemos aprender com ele. Falando com Nathen estará o criador do DevLake, Henry (Hezheng) Yin (CTO e cofundador da Merico).
+- [Livro - Entrega Contínua](https://amzn.to/483VRBo): Como Entregar Software de Forma Rápida e Confiável.
+
+## Monitoring & Observability
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - Confira nesse checklist o que uma API segura deve ter.
+
+## Career
+- [Artigo - Escalando uma organização de engenharia](https://nothingventured.rocks/scaling-an-engineering-org-a-journey-through-roles-and-responsibilities-b979dabba106): uma jornada pelas funções e responsabilidades
+- [Curso - Formação em Liderança da Conquer](https://escolaconquer.com.br/formacao-em-lideranca/?ref=A6E8A0EEF2435CD35A60814229CCB3F7): 100% GRATUITO!!!!
+
+## Jobs
+- [Kalendae: SRE Ferramentas e Automação Sênior](https://jobs.quickin.io/kalendae/jobs/654bd279f139be001526e6cc)
+- [Kalendae: SRE Mainframe Sênior](https://jobs.quickin.io/kalendae/jobs/654bcdfbf139be0015247336)
+- [Kalendae: SRE Cloud Sênior](https://jobs.quickin.io/kalendae/jobs/654a86ba3c85260014e17a94)
+- [Keeggo: DevOps Pleno](https://163319.jobs2web.com/job/ANALISTA-DEVOPS-PLENO/633655519/)
+- [Keeggo: DevOps Senior](https://163319.jobs2web.com/job/ANALISTA-DEVOPS-SENIOR/633850619/)
+
+---
+
+Já somos mais de 380 pessoas, bora fazer parte da comunidade:
+https://bit.ly/platform-engineering-br
+
+Receba atualizações por e-mail:
+https://platformengineeringbrazil.substack.com/
+
+Até a próxima semana! 
+💚
